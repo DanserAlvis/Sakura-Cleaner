@@ -8,9 +8,9 @@ $RECYCLE.BIN/
 *.tmp
 *.temp
 
-# Carpetas de configuración de editores (si usas VS Code)
+# Carpetas de configuración de editores
 .vscode/
 .idea/
 
-# No subir accesos directos
+# Accesos directos
 *.lnk
