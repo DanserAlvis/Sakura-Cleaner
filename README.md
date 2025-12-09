@@ -1,27 +1,37 @@
-# 🌸 Sakura DNS
+# 🌸 Sakura Cleaner
 
-**Sakura DNS** es una herramienta ligera y estética ("Kawaii") para Windows que te permite gestionar tu configuración de DNS y optimizar tu conexión a internet, todo envuelto en una interfaz agradable con radio integrada.
+**Sakura Cleaner** es una suite de mantenimiento ligera y estética ("Kawaii") para Windows. Diseñada para limpiar archivos basura, optimizar el sistema y mejorar la privacidad, todo mientras disfrutas de una radio integrada con visualizador de audio.
 
-<img width="714" height="551" alt="image" src="https://github.com/user-attachments/assets/47b9903e-8b5f-4d86-ba0d-32116544a2e6" />
+<img width="705" height="547" alt="image" src="https://github.com/user-attachments/assets/f2ab27bd-fc7b-432e-9ddf-549ee5f1f7bd" />
 
 ## ✨ Características
 
-* **⚡ Cambio Rápido:** Cambia entre Google, Cloudflare, OpenDNS, Quad9 y más con un clic.
-* **🛡️ Detección Inteligente:** Detecta automáticamente tu tarjeta de red activa (Wi-Fi o Ethernet).
-* **🎵 Kawaii Radio:** Reproductor integrado con visualizador de audio y música Anime/J-Pop 24/7.
-* **👾 Comunidad:** Acceso directo a nuestro servidor de Discord.
-* **🚀 Cero Instalación:** Funciona nativamente en Windows (HTA + PowerShell).
+* **🧹 Limpieza Profunda:** Elimina archivos temporales, caché de Windows Update, reportes de errores y vacía la papelera.
+* **🌐 Soporte Multi-Navegador:** Limpia la caché de Chrome, Edge, Firefox, Opera y Brave.
+* **🛡️ Privacidad:** Borra el historial de archivos recientes y el portapapeles.
+* **🎵 Kawaii Radio:** Reproductor integrado (basado en WMP) con visualizador de audio animado y música 24/7.
+* **👾 Mascota Interactiva:** Una mascota ASCII que reacciona a tus acciones.
+* **🚀 Cero Instalación:** Funciona nativamente en Windows (HTA + VBScript).
 
 ## 📦 Requisitos
 
 * Windows 10 o Windows 11.
-* Permisos de Administrador (para cambiar la configuración de red).
+* Permisos de Administrador (para acceder a carpetas del sistema como Windows Update).
 
 ## 🛠️ Cómo Usar
 
-1.  Descarga el archivo `SakuraDNS.hta`.
-2.  Ejecutar
-3.  Elige tu servidor DNS favorito y dale a **¡APLICAR! ✨**.
+1.  Descarga el archivo `SakuraCleaner.hta`.
+2.  Haz **Clic Derecho** sobre el archivo.
+3.  Selecciona **"Ejecutar como Administrador"**.
+4.  Selecciona las opciones que desees limpiar o usa "Seleccionar Todo".
+5.  Dale al botón **¡LIMPIAR! ✨**.
+
+## 🔧 Solución de Problemas
+
+* **¿La aplicación no abre?**
+    Asegúrate de ejecutarla como Administrador. El limpiador necesita permisos elevados para borrar archivos de sistema.
+* **¿La radio no suena?**
+    El reproductor utiliza el motor de Windows Media Player. Verifica que las características multimedia de Windows estén activadas.
 
 ## ⚖️ Licencia y Uso
 
