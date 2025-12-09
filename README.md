@@ -21,10 +21,9 @@
 ## 🛠️ Cómo Usar
 
 1.  Descarga el archivo `SakuraCleaner.hta`.
-2.  Haz **Clic Derecho** sobre el archivo.
-3.  Selecciona **"Ejecutar como Administrador"**.
-4.  Selecciona las opciones que desees limpiar o usa "Seleccionar Todo".
-5.  Dale al botón **¡LIMPIAR! ✨**.
+2.  Ejecutar
+3.  Selecciona las opciones que desees limpiar o usa "Seleccionar Todo".
+4.  Dale al botón **¡LIMPIAR! ✨**.
 
 ## 🔧 Solución de Problemas
 
